@@ -1,0 +1,328 @@
+TReflectedImage
+v7
+r0
+t327436689.631262
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist ReflectedImage-Info.plist
+cCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+cCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+cCpResource build/Debug-iphonesimulator/ReflectedImage.app/bus.png bus.png
+cProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch ReflectedImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/ReflectedImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage normal i386
+cGenerateDSYMFile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app.dSYM /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage
+cTouch /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.h
+c000000004DD02D6200000000000001A3
+t1305488738
+s419
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m
+c000000004DD02D5F0000000000000A52
+t1305488735
+s2642
+i"ReflectedImageAppDelegate.h"
+i"ReflectedImageViewController.h"
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.h
+c000000004DD02D6600000000000000FD
+t1305488742
+s253
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m
+c000000004DD412090000000000000E28
+t1305743881
+s3624
+i"ReflectedImageViewController.h"
+
+N/iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+c000000004DD029DB0000000000004E7D
+t1305487835
+s20093
+
+N/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+c000000004DD029DB0000000000001A61
+t1305487835
+s6753
+
+N/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch
+c000000004DD029DB00000000000000C5
+t1305487835
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app
+t1305743887
+s272
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app.dSYM
+t1305743887
+s102
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist
+t1305488756
+s619
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/MainWindow.nib
+t1305488761
+s1137
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/PkgInfo
+t1305488756
+s8
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage
+t1305743887
+s24364
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImageViewController.nib
+t1305488761
+s795
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/bus.png
+t1305488761
+s14513
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImage.LinkFileList
+c000000004DD02D7400000000000001CE
+t1305488756
+s462
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o
+t1305488763
+s51300
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o
+t1305743887
+s49376
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o
+t1305488763
+s6308
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/StaticAnalyzer/normal/i386/ReflectedImageAppDelegate.plist
+t1305743629
+s276
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/StaticAnalyzer/normal/i386/ReflectedImageViewController.plist
+t1305743887
+s276
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/StaticAnalyzer/normal/i386/main.plist
+t1305743629
+s276
+
+N/iPhoneExamples/MyExamples/ReflectedImage/bus.png
+c000000004DD02AE500000000000038B1
+t1305488101
+s14513
+
+N/iPhoneExamples/MyExamples/ReflectedImage/main.m
+c000000004DD029DB0000000000000177
+t1305487835
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch
+t1305488763
+s15453392
+
+N/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-coctqvetqmknfkevkighlrbfovez/ReflectedImage_Prefix.pch.pth
+t1305743629
+s2784024
+
+NReflectedImage-Info.plist
+c000000004DD029DB000000000000038D
+t1305487835
+s909
+
+CAnalyze /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m
+s327436429.647811
+e327436429.809764
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m
+lSLF07#2@85"Analyze /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m327436429#327436429#0(0"0(0#0#77"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m8623541792#2208"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-coctqvetqmknfkevkighlrbfovez/ReflectedImage_Prefix.pch --analyze /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/StaticAnalyzer/normal/i386/ReflectedImageAppDelegate.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m
+s327436687.099893
+e327436687.180788
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m
+lSLF07#2@88"Analyze /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m327436687#327436687#0(0"0(0#0#80"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m8634772064#2214"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-coctqvetqmknfkevkighlrbfovez/ReflectedImage_Prefix.pch --analyze /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/StaticAnalyzer/normal/i386/ReflectedImageViewController.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/ReflectedImage/main.m
+s327436429.502635
+e327436429.807352
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/ReflectedImage/main.m
+lSLF07#2@56"Analyze /iPhoneExamples/MyExamples/ReflectedImage/main.m327436429#327436429#0(0"0(0#0#48"/iPhoneExamples/MyExamples/ReflectedImage/main.m8623918048#2158"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-coctqvetqmknfkevkighlrbfovez/ReflectedImage_Prefix.pch --analyze /iPhoneExamples/MyExamples/ReflectedImage/main.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327436689#327436689#0(0"0(0#1#0"8631560416#0"0#
+
+CCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327181563.819858
+e327181563.943458
+r1
+xCompileC
+xbuild/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o
+x/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m327181563#327181563#0(0"0(0#0#77"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m8648452448#2199"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch -c /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o0#
+
+CCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327436687.017462
+e327436687.246041
+r1
+xCompileC
+xbuild/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o
+x/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m327436687#327436687#0(0"0(0#0#80"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m8633893600#2205"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch -c /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o0#
+
+CCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/ReflectedImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327181563.818559
+e327181563.902419
+r1
+xCompileC
+xbuild/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o
+x/iPhoneExamples/MyExamples/ReflectedImage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /iPhoneExamples/MyExamples/ReflectedImage/main.m327181563#327181563#0(0"0(0#0#48"/iPhoneExamples/MyExamples/ReflectedImage/main.m8649986464#2149"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch -c /iPhoneExamples/MyExamples/ReflectedImage/main.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+s327181556.313578
+e327181561.606588
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327181556#327181561#0(0"0(0#0#56"/iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib8641642624#648"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/MainWindow.nib /iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+s327181556.315142
+e327181561.606967
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+lSLF07#2@43"CompileXIB ReflectedImageViewController.xib327181556#327181561#0(0"0(0#0#74"/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib8639876256#684"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImageViewController.nib /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ReflectedImage.app/bus.png bus.png
+s327181561.607068
+e327181561.690206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ReflectedImage.app/bus.png
+xbus.png
+lSLF07#2@12"Copy bus.png327181561#327181561#0(0"0(0#0#49"/iPhoneExamples/MyExamples/ReflectedImage/bus.png8649632096#543"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPhoneExamples/MyExamples/ReflectedImage/bus.png /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app0#
+
+CGenerateDSYMFile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app.dSYM /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage
+s327436687.500353
+e327436687.779681
+r1
+xGenerateDSYMFile
+x/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app.dSYM
+x/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/ReflectedImage.app.dSYM build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage327436687#327436687#0(0"0(0#0#103"/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage8635409824#475"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage -o /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app.dSYM0#
+
+CLd /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage normal i386
+s327436687.246154
+e327436687.500218
+r1
+xLd
+x/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage
+xnormal
+xi386
+lSLF07#2@108"Link /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage327436687#327436687#0(0"0(0#0#0"8634305696#1012"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -filelist /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImage.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage0#
+
+CProcessInfoPlistFile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist ReflectedImage-Info.plist
+s327181556.282588
+e327181556.313474
+r1
+xProcessInfoPlistFile
+x/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist
+xReflectedImage-Info.plist
+lSLF07#2@33"Process ReflectedImage-Info.plist327181556#327181556#0(0"0(0#0#67"/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage-Info.plist8648309760#571"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility ReflectedImage-Info.plist -genpkginfo /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist0#
+
+CProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch ReflectedImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327181561.690358
+e327181563.818404
+r1
+xProcessPCH
+x/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch
+xReflectedImage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ReflectedImage_Prefix.pch327181561#327181563#0(0"0(0#0#67"/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch8649535712#2031"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -c /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch -o /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-coctqvetqmknfkevkighlrbfovez/ReflectedImage_Prefix.pch.pth ReflectedImage_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s327436428.413550
+e327436429.501904
+r1
+xProcessPCH
+x/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-coctqvetqmknfkevkighlrbfovez/ReflectedImage_Prefix.pch.pth
+xReflectedImage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@36"Precompile ReflectedImage_Prefix.pch327436428#327436429#0(0"0(0#0#67"/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch8623960640#2022"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -c /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch -o /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-coctqvetqmknfkevkighlrbfovez/ReflectedImage_Prefix.pch.pth0#
+
+CTouch /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app
+s327436687.779791
+e327436687.792883
+r1
+xTouch
+x/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app
+lSLF07#2@94"Touch /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app327436687#327436687#0(0"0(0#0#0"8631046848#353"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app0#
+

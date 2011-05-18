@@ -1,0 +1,317 @@
+TReflectedImage
+v7
+r0
+t327181564.011334
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist ReflectedImage-Info.plist
+cCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+cCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+cCpResource build/Debug-iphonesimulator/ReflectedImage.app/bus.png bus.png
+cProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch ReflectedImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/ReflectedImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.h
+c000000004DD02D6200000000000001A3
+t1305488738
+s419
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m
+c000000004DD02D5F0000000000000A52
+t1305488735
+s2642
+i"ReflectedImageAppDelegate.h"
+i"ReflectedImageViewController.h"
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.h
+c000000004DD02D6600000000000000FD
+t1305488742
+s253
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m
+c000000004DD02D500000000000000BB4
+t1305488720
+s2996
+i"ReflectedImageViewController.h"
+
+N/iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+c000000004DD029DB0000000000004E7D
+t1305487835
+s20093
+
+N/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+c000000004DD029DB0000000000001A61
+t1305487835
+s6753
+
+N/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch
+c000000004DD029DB00000000000000C5
+t1305487835
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app
+t2
+s0
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app.dSYM
+t2
+s0
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist
+t1305488756
+s619
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/MainWindow.nib
+t1305488761
+s1137
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/PkgInfo
+t1305488756
+s8
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage
+t2
+s0
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImageViewController.nib
+t1305488761
+s795
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/bus.png
+t1305488761
+s14513
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImage.LinkFileList
+c000000004DD02D7400000000000001CE
+t1305488756
+s462
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o
+t1305488763
+s51300
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o
+t2
+s0
+
+N/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o
+t1305488763
+s6308
+
+N/iPhoneExamples/MyExamples/ReflectedImage/bus.png
+c000000004DD02AE500000000000038B1
+t1305488101
+s14513
+
+N/iPhoneExamples/MyExamples/ReflectedImage/main.m
+c000000004DD029DB0000000000000177
+t1305487835
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch
+t1305488763
+s15453392
+
+NReflectedImage-Info.plist
+c000000004DD029DB000000000000038D
+t1305487835
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327181556#327181556#0(0"0(0#1#0"8649865248#0"0#
+
+CCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327181563.819858
+e327181563.943458
+r1
+xCompileC
+xbuild/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o
+x/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m327181563#327181563#0(0"0(0#0#77"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m8648452448#2199"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch -c /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageAppDelegate.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageAppDelegate.o0#
+
+CCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327181563.902551
+e327181564.011233
+r0
+xCompileC
+xbuild/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o
+x/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m: In function '-[ReflectedImageViewController initReflectedImageView]':
+o/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m:42: error: 'reflectionFraction' undeclared (first use in this function)
+o/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m:42: error: (Each undeclared identifier is reported only once
+o/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m:42: error: for each function it appears in.)
+o{standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
+o{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:225:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:225:symbol: "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:218:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"
+o{standard input}:218:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:209:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:209:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:203:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:203:symbol: "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:187:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"
+o{standard input}:187:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:181:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:181:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:178:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000002$pb"
+o{standard input}:178:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:173:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:173:symbol: "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:164:non-relocatable subtraction expression, "LC3" minus "L00000000002$pb"
+o{standard input}:164:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:159:non-relocatable subtraction expression, "LC2" minus "L00000000002$pb"
+o{standard input}:159:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:149:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
+o{standard input}:149:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:138:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
+o{standard input}:138:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:132:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"
+o{standard input}:132:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
+o{standard input}:123:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:110:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"
+o{standard input}:110:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:70:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:70:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol LC3
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+lSLF07#2@88"Compile /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m327181563#327181564#0(6692"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m: In function '-[ReflectedImageViewController initReflectedImageView]':/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m:42: error: 'reflectionFraction' undeclared (first use in this function)/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m:42: error: (Each undeclared identifier is reported only once/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m:42: error: for each function it appears in.){standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:225:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" minus "L00000000002$pb"{standard input}:225:symbol: "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:218:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"{standard input}:218:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:209:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:209:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:203:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" minus "L00000000002$pb"{standard input}:203:symbol: "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:187:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"{standard input}:187:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:181:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:181:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:178:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000002$pb"{standard input}:178:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:173:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" minus "L00000000002$pb"{standard input}:173:symbol: "L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:164:non-relocatable subtraction expression, "LC3" minus "L00000000002$pb"{standard input}:164:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:159:non-relocatable subtraction expression, "LC2" minus "L00000000002$pb"{standard input}:159:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:149:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:149:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:138:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:138:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:132:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"{standard input}:132:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:123:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"{standard input}:110:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:70:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:70:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol LC3{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ReflectedImageViewController.imageView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_71(4@60"'reflectionFraction' undeclared (first use in this function)327181563#152#153#0(6@80"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m327181520#42#0#42#0#43"'*' undeclared (first use in this function)0(0#0#80"/iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m8647263680#2205"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch -c /iPhoneExamples/MyExamples/ReflectedImage/Classes/ReflectedImageViewController.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/ReflectedImageViewController.o1#
+
+CCompileC build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/ReflectedImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327181563.818559
+e327181563.902419
+r1
+xCompileC
+xbuild/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o
+x/iPhoneExamples/MyExamples/ReflectedImage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /iPhoneExamples/MyExamples/ReflectedImage/main.m327181563#327181563#0(0"0(0#0#48"/iPhoneExamples/MyExamples/ReflectedImage/main.m8649986464#2149"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch -c /iPhoneExamples/MyExamples/ReflectedImage/main.m -o /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+s327181556.313578
+e327181561.606588
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327181556#327181561#0(0"0(0#0#56"/iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib8641642624#648"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/MainWindow.nib /iPhoneExamples/MyExamples/ReflectedImage/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+s327181556.315142
+e327181561.606967
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib
+lSLF07#2@43"CompileXIB ReflectedImageViewController.xib327181556#327181561#0(0"0(0#0#74"/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib8639876256#684"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImageViewController.nib /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ReflectedImage.app/bus.png bus.png
+s327181561.607068
+e327181561.690206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ReflectedImage.app/bus.png
+xbus.png
+lSLF07#2@12"Copy bus.png327181561#327181561#0(0"0(0#0#49"/iPhoneExamples/MyExamples/ReflectedImage/bus.png8649632096#543"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPhoneExamples/MyExamples/ReflectedImage/bus.png /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app0#
+
+CGenerateDSYMFile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app.dSYM /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage
+r0
+
+CLd /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/ReflectedImage normal i386
+r0
+
+CProcessInfoPlistFile /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist ReflectedImage-Info.plist
+s327181556.282588
+e327181556.313474
+r1
+xProcessInfoPlistFile
+x/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist
+xReflectedImage-Info.plist
+lSLF07#2@33"Process ReflectedImage-Info.plist327181556#327181556#0(0"0(0#0#67"/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage-Info.plist8648309760#571"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility ReflectedImage-Info.plist -genpkginfo /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app/Info.plist0#
+
+CProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch ReflectedImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327181561.690358
+e327181563.818404
+r1
+xProcessPCH
+x/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch
+xReflectedImage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ReflectedImage_Prefix.pch327181561#327181563#0(0"0(0#0#67"/iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch8649535712#2031"    cd /iPhoneExamples/MyExamples/ReflectedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-generated-files.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-own-target-headers.hmap -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/ReflectedImage-project-headers.hmap -F/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/ReflectedImage/build/ReflectedImage.build/Debug-iphonesimulator/ReflectedImage.build/DerivedSources -c /iPhoneExamples/MyExamples/ReflectedImage/ReflectedImage_Prefix.pch -o /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReflectedImage_Prefix-bvevqjvmilluiehbrpdvezqzents/ReflectedImage_Prefix.pch.gch0#
+
+CTouch /iPhoneExamples/MyExamples/ReflectedImage/build/Debug-iphonesimulator/ReflectedImage.app
+r0
+
